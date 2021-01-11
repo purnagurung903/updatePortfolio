@@ -1,0 +1,94 @@
+.color{
+  background-image:url("https://cdn2.hubspot.net/hubfs/202339/canvas/images/parallax/Website-Design-Background.png") ;
+  border: 2px solid black;
+  padding: 25px;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+  color: #F8F7F9;
+}
+.contrainer{
+  padding-top: 20px;
+}
+.goals {
+  padding-top: 20px;
+}
+
+.lighterBG{
+  background-color: lightgray;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+.lighterbg{
+  background-color: lightgray
+}
+.button {
+  text-align: center;
+  padding-top: 5px;
+}
+.pad{
+  padding-top: 20px;
+}
+.padC {
+  
+  margin-right: 30px ;
+  color: black;
+}
+.headlines{
+  
+  font-family: 'Rowdies', cursive;
+  text-decoration: underline
+
+}
+.center{
+  text-align: center;
+  padding-right: 50px;
+}
+
+.centerjust{
+  text-align: center;
+  padding-top: 7px;
+}
+.fitpic{
+  width: 240px;
+  text-align: center;
+  margin: auto;
+  padding-right: 50px;
+}
+.underline {
+  text-decoration: underline;
+  font-family: 'Rowdies', cursive;
+}
+
+.floatright {
+  float: right;
+}
+.right {
+  margin-left: 60%;
+}
+.mleft {
+  margin-left: 40%;
+}
+.darkl{
+  color: black;
+}
+.lessdarkl{
+  color: rgb(141, 140, 140);
+}
+.padB{
+  padding-bottom: 10px;
+}
+.headlinesnoul{
+  font-family: 'Rowdies', cursive
+}
+.fixfoot{
+  margin-top: 50px;
+}
+@media screen and (max-width: 400px){
+  body{
+      text-size-adjust: 14px;
+  }
+
+}
