@@ -9,9 +9,7 @@ As our second homework assignment, we are asked to create a portfolio with three
 
 * Portfolio: In this page i added my group project with two other solo project with their screenshot and deployed url.
 
-# ScreenShot:
 
-
-# Deployed Url:
+# Deployed Url: https://purnagurung903.github.io/updatePortfolio/
 
 # Github Url: https://github.com/purnagurung903/updatePortfolio.git
