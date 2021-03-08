@@ -1,4 +1,6 @@
 # UpdatePortfolio
+<img width="1440" alt="Screen Shot 2021-03-08 at 4 28 04 PM" src="https://user-images.githubusercontent.com/69695368/110384202-513f8b00-802b-11eb-8cd0-28405993eb9c.png">
+
 
 # Discription
 As our second homework assignment, we are asked to create a portfolio with three page on this project.
